@@ -11,7 +11,7 @@
         for($i = 0; $i < $n; $i++)                              //Laço que itera sobre cada caractere da string
         {
             if(array_key_exists($palavra[$i], $caracteres))     //Condição que verifica se o caractere já foi contado no array
-                {                                               //Se a chave ja existir a contagem é incrementada
+                {                                               //Se a chave já existir a contagem é incrementada
                     $caracteres[$palavra[$i]]++;
                 }
                 else
