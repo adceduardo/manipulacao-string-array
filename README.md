@@ -27,7 +27,7 @@ Um array associativo onde as chaves são os caracteres e os valores são suas re
 
 ### Exemplo de Entrada e Saída:
 ````php
-$input = "banana apple";
+$string = "banana apple";
 
 // Saída esperada:
 $output = [
