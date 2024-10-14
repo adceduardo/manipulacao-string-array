@@ -18,7 +18,7 @@ Espaços são considerados caracteres válidos.
 
 Se dois caracteres tiverem a mesma frequência, eles devem ser ordenados em ordem alfabética.
 
-## Detalhes do Teste:
+## Detalhes do Teste
 ### Entrada:
 Uma string composta por letras (maiúsculas e minúsculas) e espaços.
 
